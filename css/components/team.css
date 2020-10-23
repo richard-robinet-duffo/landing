@@ -1,0 +1,11 @@
+.team {
+  display:flex;
+  list-style:none;
+  justify-content: center;
+}
+
+.img-team {
+  border-radius: 50%;
+  width:250px;
+  padding: 30px;
+}

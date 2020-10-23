@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Baskervville&family=Lora:wght@400;500;600;700&family=Roboto:wght@300;400;500;700;900&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/navbar.css");
+@import url("components/team.css");
+
+body {
+	font-family: 'Lora', serif;
+	font-size:18px;
+}
+
+h1,h2,h3 {
+	font-family:'Baskervville',serif;
+	font-weight: lighter;
+  text-align: center;
+}
+
+a {
+	text-decoration:none;
+}
+
+.mission {
+  text-align: center;
+  padding:8%;
+}
+
+h2 {
+  font-size: 1.7em;
+}
